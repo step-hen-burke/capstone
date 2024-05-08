@@ -1,0 +1,13 @@
+- [ ] Ensure 5 ethical aspects have been addressed
+- [ ] Flesh out ROs
+- [ ] Watch experimentation lecture / read notes and adjust section
+- [ ] Overview of ML resource constraints
+- [ ] IoT ML examples
+- [ ] Add explanations and examples for compression families
+	- [ ] Weight sharing
+	- [ ] Pruning - Add SoTA example
+	- [ ] Quantization  - flesh out explanation, add examples
+	- [ ] Low Rank Approximation - flesh out explanation, add examples
+	- [ ] Knowledge Distillation - Add examples
+- [ ] Framework, benchmark and architecture section
+- [ ] Add references section

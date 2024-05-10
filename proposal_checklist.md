@@ -2,12 +2,41 @@
 - [ ] Flesh out ROs
 - [ ] Watch experimentation lecture / read notes and adjust section
 - [ ] Overview of ML resource constraints
-- [ ] IoT ML examples
+- [x] IoT ML examples
 - [ ] Add explanations and examples for compression families
-	- [ ] Weight sharing
+	- [x] Weight sharing
 	- [ ] Pruning - Add SoTA example
-	- [ ] Quantization  - flesh out explanation, add examples
+	- [x] Quantization  - flesh out explanation, add examples
 	- [ ] Low Rank Approximation - flesh out explanation, add examples
-	- [ ] Knowledge Distillation - Add examples
+	- [x] Knowledge Distillation - Add examples
 - [ ] Framework, benchmark and architecture section
 - [ ] Add references section
+
+	
+profentzas
+mohammadi
+fernandez
+antonakakis
+selvan
+Lin
+Bai
+gysel
+micikevicius
+dong
+stock
+o'neill
+moser
+le cun
+hassibi
+cheng
+bucila
+lopes
+devlin
+baller
+ishtiaq
+shen
+zhu
+tang
+mishra
+chen 
+howlan
